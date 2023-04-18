@@ -13,7 +13,9 @@
 </p>    
 <br>
 
-<center> <p>Visitor count</p></center>
+<center> <p>Visitor count</p> </center>
+
+
 <center><img src="https://profile-counter.glitch.me/Tejeshwar141/count.svg" /></center>
 
 <!-- Languages and Tools -->
