@@ -9,8 +9,10 @@
     I am a passionate, Frontend web developer and computer science student. I love learning new programming languages and technologies. I also love to help people to learn programming.
 <br>
     
-    <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31m3i7iwdxht26zfwwihuqrof4k4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div> 
-    
+    <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Tejeshwar141/count.svg" />
+</p>
     
     
 <br>
