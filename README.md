@@ -87,7 +87,6 @@
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
-[![Spotify](https://novatorem-hysszjom5-tejesh912.vercel.app/api/spotify)](https://open.spotify.com/user/31m3i7iwdxht26zfwwihuqrof4k4)
     
 
 ![Tejesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejeshwar141&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
