@@ -87,7 +87,8 @@
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
-[![spotify-github-profile](https://tejesh-spotify.vercel.app/api/view?uid=31m3i7iwdxht26zfwwihuqrof4k4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31m3i7iwdxht26zfwwihuqrof4k4&redirect=true)
+[![Spotify](https://tejesh-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/31m3i7iwdxht26zfwwihuqrof4k4)
+    
 
 ![Tejesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejeshwar141&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
