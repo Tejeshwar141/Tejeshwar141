@@ -8,15 +8,14 @@
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, Frontend web developer and computer science student. I love learning new programming languages and technologies. I also love to help people to learn programming.
 <br>
-    
-   <center> <p>Visitor count<br>
-       <img src="https://profile-counter.glitch.me/Tejeshwar141/count.svg" /></p></center>
-    
-    
 <br>
   <a href="mailto:tejesh9790@gmail.com">Email Me</a>
 </p>    
 <br>
+
+<center> <p>Visitor count</p></center>
+<center><img src="https://profile-counter.glitch.me/Tejeshwar141/count.svg" /></center>
+
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
