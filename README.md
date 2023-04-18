@@ -91,6 +91,10 @@
 
 ![Tejesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejeshwar141&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejeshwar141&label=Profile%20views&color=0e75b6&style=flat" alt="tejeshwar141" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejeshwar141" alt="tejeshwar141" /></a> </p>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tejeshwar141&count_private=true&theme=algolia&border_radius=20)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeshwar141&layout=compact&show_icons=true&theme=algolia&border_radius=20)
