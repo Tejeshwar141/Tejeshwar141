@@ -9,10 +9,8 @@
     I am a passionate, Frontend web developer and computer science student. I love learning new programming languages and technologies. I also love to help people to learn programming.
 <br>
     
-    <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Tejeshwar141/count.svg" />
-</p>
+   <center> <p>Visitor count<br>
+       <img src="https://profile-counter.glitch.me/Tejeshwar141/count.svg" /></p></center>
     
     
 <br>
