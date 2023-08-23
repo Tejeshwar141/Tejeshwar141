@@ -1,4 +1,4 @@
-[![Spotify](https://spotify-lug5s8pjl-tejesh912.vercel.app/api/spotify)](https://open.spotify.com/user/)
+[![Spotify](https://spotify-lug5s8pjl-tejesh912.vercel.app/api/spotify)](https://open.spotify.com/user/31m3i7iwdxht26zfwwihuqrof4k4)
 
 <h2 style="color: #44AEFB;"> 👨🏻‍💻 Tejesh<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
