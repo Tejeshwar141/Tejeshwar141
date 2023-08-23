@@ -15,6 +15,7 @@
 </p>    
 <br>
 #SPOTIFY🎧💓
+
 [![Spotify](https://spotify-lug5s8pjl-tejesh912.vercel.app/api/spotify)](https://open.spotify.com/user/31m3i7iwdxht26zfwwihuqrof4k4)
 
 <center> <p>Visitor count</p> </center>
